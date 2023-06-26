@@ -1,0 +1,11 @@
+[package]
+name = "gresolve"
+version = "0.1.0"
+authors = ["Rodolfo Boer <rodolfo.boer@gmail.com>"]
+edition = "2021"
+description = "A library to resolve gentoo's portage dependencies"
+homepage = "https://github.com/move-z/gresolve"
+license = "LGPL-3.0-or-later"
+publish = false
+
+[dependencies]
